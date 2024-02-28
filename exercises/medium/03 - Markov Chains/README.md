@@ -14,7 +14,7 @@ Markov-Ketten können auch zur Generierung von Musik verwendet werden. In der Mu
 
 [![Open In Colab][colab-badge]][colab-notebook3]
 
-[colab-notebook3]: <[https://colab.research.google.com/drive/1DTfLU4euq13HOACdrpaaeXv3qmdZKIhh?usp=sharing](https://colab.research.google.com/drive/1DTfLU4euq13HOACdrpaaeXv3qmdZKIhh?usp=sharing)>
+[colab-notebook3]: <https://colab.research.google.com/drive/1DTfLU4euq13HOACdrpaaeXv3qmdZKIhh?usp=sharing>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 TODO: correct link
