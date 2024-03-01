@@ -2,7 +2,7 @@
 
 Schwierigkeitsgrad: leicht
 
-Track Separation, also das Aufteilen von Musikstücken in ihre einzelnen Bestandteile wie Gesang, Instrumente und Schlagzeug – ermöglicht neue Wege in der Musikbearbeitung. Mit Hilfe von KI-basierten Modellen wie [moises](https://moises.ai/de/), [lalal.ai](https://www.lalal.ai/) oder [vocalremover](https://vocalremover.org/de/splitter-ai) können selbst Einsteiger diese Technik mühelos anwenden.
+Track Separation, also das Aufteilen von Musikstücken in ihre einzelnen Bestandteile wie Gesang und Instrumente – ermöglicht neue Wege in der Musikbearbeitung. Mit Hilfe von KI-basierten Modellen wie [moises](https://moises.ai/de/), [lalal.ai](https://www.lalal.ai/) oder [vocalremover](https://vocalremover.org/de/splitter-ai) können selbst Einsteiger diese Technik mühelos anwenden.
 
 Gerade für den pädagogischen Einsatz können diese Tools sehr interessant sein um Schüler*innen einzelne Stimmen in einem bekannten Song zu verdeutlichen bzw. maßgeschneiderte Playalongs zu generieren. Auch für die Komposition neuer Stücke bzw. Erstellung von Remixes können einzelne Audio-Spuren als Material genutzt werden.
 
