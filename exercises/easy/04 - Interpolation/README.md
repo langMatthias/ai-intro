@@ -13,6 +13,8 @@ Durch die Erforschung des latenten Raums können wir auch interessante Einblicke
 Experimentiere mit dem latenten Raum von NSynth:
 https://experiments.withgoogle.com/ai/sound-maker/view/
 
+Klicke auch auf das Fragezeichen in der rechten oberen Ecke, um besser zu verstehen, wie das Tool funktioniert. Du kannst auch ein MIDI-Keyboard anschließen und die Klänge direkt spielen.
+
 ## Interpolation zwischen musikalischen Stilen
 
 Das MusicVAE-Modell von der Magenta Gruppe von Google ermöglicht es uns, zwischen verschiedenen musikalischen Stilen zu interpolieren. Dieses Modell lernt, musikalische Stile zu repräsentieren und kann uns dabei helfen, neue musikalische Ideen zu generieren, indem wir zwischen verschiedenen Stilen interpolieren. Auf der folgenden Website ist es möglich zwei MIDI-Dateien hochzuladen und eine Interpolation zwischen den beiden Stilen zu generieren:
