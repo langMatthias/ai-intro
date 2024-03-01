@@ -4,7 +4,7 @@ In dieser Übung nutzen wir Colab Notebooks um Musik zu generieren. Um dich dami
 
 ## Generierung von symbolischen Daten (MIDI)
 
-In dieser Übung nutzen wir ein Transformer-Modell, welches aus einem Text-Prompt MIDI-Noten generiert. Dafür folgen wir den Anweisungen im Colab Notebook:
+In dieser Übung nutzen wir ein Transformer-Modell, welches aus einem Text-Prompt MIDI-Noten generiert. Dafür folgen wir den Anweisungen im folgenden Colab Notebook:
 
 [![Open In Colab][colab-badge]][colab-notebook1]
 
