@@ -64,7 +64,9 @@ Das MusicGen-Modell wiederum interpretierte diesen Text zu folgendem Audio-File:
 
 <audio controls>
   <source src="Akademie_fuer_Tonkunst_02.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
+  <href="Akademie_fuer_Tonkunst_02.mp3">Audio File</a>
 </audio> 
+
+
 
 Wie klingt die graphische Notation, welche im ersten Teil generiert wurde? Wie klingt der Output von MusicGen, wenn der originale Prompt für die graphische Notation auch als Prompt für das Audio-File genutzt wird?
