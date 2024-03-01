@@ -15,7 +15,7 @@ Um diese Kompositions-Idee zu erleben, empfehle ich, zunächst mit einer der bei
 Die Noten Mozarts sind hier zu finden:
 - [https://imslp.org/wiki/Musikalisches_W%C3%BCrfelspiel,_K.516f_(Mozart,_Wolfgang_Amadeus)#IMSLP20432](https://imslp.org/wiki/Musikalisches_W%C3%BCrfelspiel,_K.516f_(Mozart,_Wolfgang_Amadeus)#IMSLP20432)
 
-Nachdem ihr Mozarts Würfelspiel ausprobiert habt, könnt ihr eure eigene Kreativität entfalten und ein eigenes Würfelspiel entwickeln. Probiert verschiedene Kombinationen von Würfeln und Regeln aus, um eure eigenen musikalischen Sequenzen zu komponieren. 
+Nachdem ihr Mozarts Würfelspiel ausprobiert habt, könnt ihr eure eigene Kreativität entfalten und ein eigenes Würfelspiel entwickeln. Probiert verschiedene Kombinationen von Würfeln und Regeln aus, um eure eigenen musikalischen Sequenzen zu komponieren. Wie kann dieses Konzept noch erweitert oder modernisiert werden?
 
 ## Weiterführende Übungen
 
