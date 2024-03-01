@@ -64,7 +64,7 @@ Das MusicGen-Modell wiederum interpretierte diesen Text zu folgendem Audio-File:
 
 <audio controls>
   <source src="Akademie_fuer_Tonkunst_02.mp3" type="audio/mpeg">
-[Audio File](Akademie_fuer_Tonkunst_02.mp3)
+  <a href="Akademie_fuer_Tonkunst_02.mp3">Audio File</a>
 </audio> 
 
 
