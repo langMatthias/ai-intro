@@ -1,6 +1,10 @@
 # Train a model on your style!
 
-Das musicVAE-Modell von Magenta ist ein Auto-Encoder-Modell. Es versucht Musik als einen Vektor mit 256 Werten darzustellen. Im Prinzip eine Liste an 256 Zahlen. 
+Das musicVAE-Modell von Magenta ist ein Auto-Encoder-Modell. Es versucht Musik als einen Vektor mit 256 Werten darzustellen. Im Prinzip eine Liste an 256 Zahlen. Lese den folgenden Artikel um besser zu verstehen, wie dieses Modell funktioniert:
+
+https://magenta.tensorflow.org/music-vae
+
+
 Auf der folgenden Website kannst du diesen Vektorraum erkunden:
 https://midi-me.glitch.me
 
