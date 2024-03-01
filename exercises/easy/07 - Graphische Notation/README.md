@@ -17,11 +17,11 @@ Hier kann unter `Inference API` in der rechten Spalte ein Text-Prompt eingegeben
 Hier zwei Beispiele, die mit dem Stable Diffusion 2.1 Modell generiert wurden:
 
 <div style="display: flex; justify-content: space-between;">
-    <div style="flex-basis: 48%;">
+    <div style="width: 48%;">
         <img src="graphical-notation-trees.jpeg" alt="Image 1" style="width: 100%;"/>
         <p>graphical notation of a musical piece on the topic of trees</p>
     </div>
-    <div style="flex-basis: 48%;">
+    <div style="width: 48%;">
         <img src="graphical-notation-forest2.jpeg" alt="Image 2" style="width: 100%;"/>
         <p>the score of a musical piece about the forest as graphical notation</p>
     </div>
