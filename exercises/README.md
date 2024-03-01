@@ -30,7 +30,7 @@ Experimentiere mit KI-Modellen, welche Musik basierend nur auf einem Text-Input 
 ### Graphische Notation
 Generiere graphische Notationen mit KI-Modellen und erforsche, wie diese in der Musikpädagogik eingesetzt werden können.
 
-## Train a model on your style!
+### Train a model on your style!
 Trainiere das musicVAE-Modell auf den Stil einer eigenen MIDI-Datei und erkunde den latent space des Auto-Enkoder-Modells.
 
 ### Musikalische Interaktion
