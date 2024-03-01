@@ -17,6 +17,20 @@ Markov-Ketten können auch zur Generierung von Musik verwendet werden. In der Mu
 [colab-notebook3]: <https://colab.research.google.com/drive/1DTfLU4euq13HOACdrpaaeXv3qmdZKIhh?usp=sharing>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
+
+
+
+[![Open In Colab][colab-badge]][colab-notebook1]
+
+[colab-notebook1]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/medium/01 - Einführung in Python/Mozarts_Würfelspiel.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+
+Versuche wenn möglich die Aufgaben selbst zu lösen. Für den Fall, dass du nicht weiterkommst, findest du die Lösung ebenfalls auf Google Colab:
+
+[![Open In Colab][colab-badge]][colab-notebook2]
+
+[colab-notebook2]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/medium/01 - Einführung in Python/Mozarts_Würfelspiel_solution.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 TODO: correct link
 
 
