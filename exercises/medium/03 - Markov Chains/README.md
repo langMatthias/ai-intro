@@ -11,27 +11,17 @@ Um das Verhalten von Markov-Ketten besser zu verstehen, kannst du auch die inter
 
 Markov-Ketten können auch zur Generierung von Musik verwendet werden. In der Musik-Generierung werden Markov-Ketten oft verwendet, um die Wahrscheinlichkeit zu modellieren, dass ein bestimmter Akkord oder eine bestimmte Note auf einen anderen Akkord oder eine andere Note folgt. Im folgenden Tutorial werden Markov-Ketten genutzt um jeweils die nächste Note vorherzusagen:
 
-
-[![Open In Colab][colab-badge]][colab-notebook3]
-
-[colab-notebook3]: <https://colab.research.google.com/drive/1DTfLU4euq13HOACdrpaaeXv3qmdZKIhh?usp=sharing>
-[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
-
-
-
-
 [![Open In Colab][colab-badge]][colab-notebook1]
 
-[colab-notebook1]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/medium/01 - Einführung in Python/Mozarts_Würfelspiel.ipynb>
+[colab-notebook1]: <exercises/medium/03 - Markov Chains/Markov-Chains.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 Versuche wenn möglich die Aufgaben selbst zu lösen. Für den Fall, dass du nicht weiterkommst, findest du die Lösung ebenfalls auf Google Colab:
 
 [![Open In Colab][colab-badge]][colab-notebook2]
 
-[colab-notebook2]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/medium/01 - Einführung in Python/Mozarts_Würfelspiel_solution.ipynb>
+[colab-notebook2]: <exercises/medium/03 - Markov Chains/Markov-Chains_solution.ipynbb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
-TODO: correct link
 
 
 ## Weiterführende Literatur
