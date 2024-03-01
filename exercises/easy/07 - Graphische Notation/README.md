@@ -67,6 +67,4 @@ Das MusicGen-Modell wiederum interpretierte diesen Text zu folgendem Audio-File:
   <a href="https://github.com/langMatthias/ai-intro/raw/main/exercises/easy/07%20-%20Graphische%20Notation/Akademie_fuer_Tonkunst_02.mp3">Audio File</a>
 </audio> 
 
-https://github.com/langMatthias/ai-intro/raw/main/exercises/easy/07%20-%20Graphische%20Notation/Akademie_fuer_Tonkunst_02.mp3
-
 Wie klingt die graphische Notation, welche im ersten Teil generiert wurde? Wie klingt der Output von MusicGen, wenn der originale Prompt für die graphische Notation auch als Prompt für das Audio-File genutzt wird?
