@@ -6,5 +6,5 @@ Außerdem kann das Modell auch Spektrogramme basierend auf einem Prompt verände
 
 [![Open In Colab][colab-badge]][colab-notebook3]
 
-[colab-notebook3]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/hard/02 - MeloDiff /melodiff_v1.ipynb>
+[colab-notebook3]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/hard/01 - MeloDiff /melodiff_v1.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
