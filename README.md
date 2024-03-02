@@ -1,5 +1,5 @@
 # KI und Musik
-Begleitmaterial zum Blockseminar „künstlerisch intelligent“ an der [Akademie für Tonkunst](akademie-fuer-tonkunst.de) feat. [INMM](https://www.neue-musik.org/).
+Begleitmaterial zum Blockseminar „künstlerisch intelligent“ an der [Akademie für Tonkunst](https://akademie-fuer-tonkunst.de) feat. [INMM](https://www.neue-musik.org/).
 
 ## Slides
 
