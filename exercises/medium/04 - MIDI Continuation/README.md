@@ -19,13 +19,25 @@ Experimentiere auch mit unterschiedlichen Parametern:
 - `generate n midi events` gibt an, wie viele MIDI-Events generiert werden.
 - unter `options: temperature` kann die Temperatur des Modells eingestellt werden. Eine höhere Temperatur führt zu mehr Zufälligkeit in der Generierung.
 
-Das Modell ist auch als Colab Notebook verfügbar. Mache dich mit dem Code vertraut und versuche nun mit dem Python Code eine MIDI-Datei zu generieren.
+Das Modell und auch weitere sind auch als Colab Notebook verfügbar. Mache dich mit dem Code vertraut und versuche nun mit dem Python Code eine MIDI-Datei zu generieren.
 
+### Allegro Music Composer
 [![Open In Colab][colab-badge]][colab-notebook1]
 
-[colab-notebook1]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/medium/01 - MIDI Continuation/Los_Angeles_Music_Composer_Edition.ipynb>
+[colab-notebook1]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/medium/04 - MIDI Continuation/Allegro_Music_Transformer_Composer.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
+### Giant Music Composer
+[![Open In Colab][colab-badge]][colab-notebook3]
+
+[colab-notebook3]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/medium/04 - MIDI Continuation/Giant_Music_Transformer_Composer.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+
+### Los Angeles Music Composer
+[![Open In Colab][colab-badge]][colab-notebook4]
+
+[colab-notebook4]: <https://colab.research.google.com/github/langMatthias/ai-intro/blob/main/exercises/medium/01 - MIDI Continuation/Los_Angeles_Music_Composer_Edition.ipynb>
+[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 
 ## Magenta Studio
