@@ -13,14 +13,14 @@ Markov-Ketten können auch zur Generierung von Musik verwendet werden. In der Mu
 
 [![Open In Colab][colab-badge]][colab-notebook1]
 
-[colab-notebook1]: <exercises/medium/03 - Markov Chains/Markov-Chains.ipynb>
+[colab-notebook1]: <exercises/medium/03%20-%20Markov%20Chains/Markov-Chains.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 Versuche wenn möglich die Aufgaben selbst zu lösen. Für den Fall, dass du nicht weiterkommst, findest du die Lösung ebenfalls auf Google Colab:
 
 [![Open In Colab][colab-badge]][colab-notebook2]
 
-[colab-notebook2]: <exercises/medium/03 - Markov Chains/Markov_Chains_solution.ipynb>
+[colab-notebook2]: <exercises/medium/03%20-%20Markov%20Chains/Markov-Chains_solution.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 
