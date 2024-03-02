@@ -2,6 +2,7 @@
 
 Die einzelnen Einheiten der Praxisphase enthalten Anregungen sich mit KI und Musik auseinanderzusetzen. Sie sind in drei Schwierigkeitsgrade eingeteilt. Hier ein Überblick:
 
+
 ## Einfach
 
 ### Mozarts Würfelspiel
@@ -36,6 +37,7 @@ Trainiere das musicVAE-Modell auf den Stil einer eigenen MIDI-Datei und erkunde 
 ### Musikalische Interaktion
 Interagiere direkt mit KI-Modellen und erforsche, wie sie auf deine musikalischen Eingaben reagieren.
 
+
 ## Mittel
 
 ### Einführung in Python-Programmierung
@@ -47,14 +49,13 @@ Nutze KI-Modelle, um aus einem Text-Prompt MIDI-Noten bzw. Audio-Daten zu generi
 ### Markov Chains
 In diesem Tutorial nutzen wir Markov-Ketten, um Musik zu generieren.
 
-
-## Schwer
-
 ### MIDI continuation
 Nutze KI-Modelle um die Fortsetzung von MIDI-Dateien zu generieren.
 
-### MeloDiff
 
+## Schwer
+
+### MeloDiff
 Nutze das Riffusion-Modell, um Spektrogramme zu generieren und zu verändern.
 
 ### Intro to Music Generation with RNNs
