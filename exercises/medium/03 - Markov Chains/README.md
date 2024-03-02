@@ -20,7 +20,7 @@ Versuche wenn möglich die Aufgaben selbst zu lösen. Für den Fall, dass du nic
 
 [![Open In Colab][colab-badge]][colab-notebook2]
 
-[colab-notebook2]: <exercises/medium/03 - Markov Chains/Markov-Chains_solution.ipynbb>
+[colab-notebook2]: <exercises/medium/03 - Markov Chains/Markov_Chains_solution.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 
