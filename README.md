@@ -7,4 +7,4 @@ Die verwendeten Folien sind [hier](slides) zu finden.
 
 ## Praxisphase
 
-Die einzelnen Einheiten der Praxisphase sind [hier](exercise) zu finden.
+Die einzelnen Einheiten der Praxisphase sind [hier](exercises) zu finden.
