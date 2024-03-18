@@ -41,6 +41,9 @@ https://huggingface.co/spaces/fffiloni/MAGNet
 ### Riffusion
 https://huggingface.co/spaces/fffiloni/spectrogram-to-music
 
+### Beatoven.ai
+https://www.beatoven.ai/
+
 ## Prompt Upsampling
 
 Das Konzept des Prompt Upsamplings nutzt Sprachmodelle wie ChatGPT um selbst Prompts zu verbessern. Hier wird das Sprachmodell genutzt um den Prompt auszuschmücken und damit bessere Ergebnisse zu erzielen. In folgendem Huggingface Space kann dieses Konzept ausprobiert werden: https://huggingface.co/spaces/reach-vb/musicgen-prompt-upsampling
