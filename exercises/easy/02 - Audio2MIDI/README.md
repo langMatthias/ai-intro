@@ -11,3 +11,7 @@ Dann könnt ihr selbst Aufnahmen durch das Modell transkribieren lassen:
 https://piano-scribe.glitch.me/
 
 Wie geht das Modell mit anderen Instrumenten oder Geräuschen um? Wie könntet ihr dieses Modell für eure eigene musikalische Praxis nutzen?
+
+## Basic Pitch
+Alternativ könnt ihr auch das Basic Pitch Modell von Spotify nutzen, um Audiodateien in MIDI-Dateien zu konvertieren:
+https://basicpitch.spotify.com/
