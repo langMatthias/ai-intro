@@ -15,3 +15,7 @@ Wie geht das Modell mit anderen Instrumenten oder Geräuschen um? Wie könntet i
 ## Basic Pitch
 Alternativ könnt ihr auch das Basic Pitch Modell von Spotify nutzen, um Audiodateien in MIDI-Dateien zu konvertieren:
 https://basicpitch.spotify.com/
+
+## AI-MIDI
+Ein weiteres Modell, das Audiodateien in MIDI-Dateien konvertieren kann, ist AI-MIDI:
+https://ai-midi.com/
