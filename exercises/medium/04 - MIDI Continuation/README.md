@@ -66,4 +66,4 @@ Open MuseNet ist eine Open-Source Nachimplementierung von OpenAI's MuseNet. Das 
 
 ## Audio Continuation
 
-Das Konzept der MIDI-Continuation kann auch auf Audio angewendet werden. Hierbei wird ein Audio-Modell mit einem Audio-File gefüttert und generiert daraufhin eine Fortsetzung. Zum Beispiel kann das MusicGen-Modell dafür genutzt werden: https://huggingface.co/spaces/facebook/MusicGen
+Das Konzept der MIDI-Continuation kann auch auf Audio angewendet werden. Hierbei wird ein Audio-Modell mit einem Audio-File gefüttert und generiert daraufhin eine Fortsetzung. Zum Beispiel kann das MusicGen-Modell dafür genutzt werden: https://huggingface.co/spaces/sub314xxl/MusicGen-Continuation
